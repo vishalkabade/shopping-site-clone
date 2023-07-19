@@ -1,0 +1,108 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.Shopname {
+    /* border: 2px solid red; */
+    margin-top: 3rem;
+    text-align: center;
+    height: 50px;
+}
+img{
+    width: 80px;
+   
+    
+}
+.firstheading{
+    /* border: 3px solid red; */
+    text-align: center;
+    margin-top: 2rem;
+    width: 50rem;
+   
+}
+.mainheading{
+   padding-left: 21rem;
+    /* border: 5px solid blue; */
+}
+.buttonname{
+display: flex;
+gap: 1rem;
+/* border: 3px solid paleturquoise; */
+justify-content: center;
+height: 60px;
+
+}
+.threediv{
+    /* border: 8px solid green; */
+    padding-top: 35px;
+    justify-content: center;
+    display: flex;
+}
+.innerdiv{
+    /* border: 2px solid red; */
+    width: 20rem;
+    margin:  2rem 2rem 2rem 2rem ;
+    
+}
+.logo{
+    /* padding-top: 6rem; */
+    margin-top:8rem;
+    /* border: 3px solid magenta; */
+    border-top: 2px solid rgb(226, 206, 206);
+    border-bottom: 2px solid  rgb(226, 206, 206);
+    /* border-bottom: 2px solid rgb(232, 209, 209); */
+    display: flex;
+    gap: 8rem;
+    height: 9rem;
+    width: 70rem;
+    margin-left: 11rem;
+    justify-content: center;
+    /* width: 10rem; */
+}
+.twodiv{
+    display: flex;
+    padding-top: 5rem;
+    /* border: 2px solid green; */
+    height: 23rem;
+    justify-content: center;
+    gap: 30px;
+
+}
+.samediv{
+    
+    /* border: 2px solid black; */
+    height: 15rem;
+    width: 29rem;
+    font-size: 25px;
+    text-align: center;
+    
+}
+.single{
+    text-align: center;
+    font-size: 20px;
+    /* border: 2px solid rebeccapurple; */
+    width: 22rem;
+    height: 8rem;
+    margin-left: 32rem;
+}
+.last{
+    /* border: 2px solid red; */
+    margin-top: 20rem;
+    height: 19rem;
+    width: 75rem;
+    margin-left: 10rem;
+    
+}
+.one{
+    /* border: 2px solid blue; */
+    border-bottom: 2px solid rgb(214, 204, 204);
+    height: 4rem;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+
+}
+
+
