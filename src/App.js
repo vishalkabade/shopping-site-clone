@@ -3,10 +3,12 @@ import React from 'react'
 // import "./styles/login.css"
 // import Navbar from './pages/Navbar'
 import Shopify from './pages/Shopify'
+import Calculater from './pages/Calculater'
 export default function App() {
   return <>
     {/* <Login /> */}
     {/* <Navbar/> */}
-    <Shopify/>    
+    {/* <Shopify/>     */}
+    <Calculater/>     
   </>
 }

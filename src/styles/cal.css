@@ -1,0 +1,46 @@
+.main {
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    /* gap: 5rem; */
+
+}
+
+input {
+    margin: 8px;
+    width: 20rem;
+    padding: 5px;
+    border-radius: 5px;
+}
+.buttonall{
+    display: flex;
+    justify-content: center;
+    gap: 0.8rem;
+    padding-top: 2rem;
+    height: 4rem;
+    width: auto;
+    
+}
+button{color:black;
+background-color: aqua;
+width: 5rem;
+border-radius: 5px;
+transition: 0.3s;
+
+
+}
+button:hover{
+    background-color: aquamarine;
+    transition: 0.3s;
+}
+.papa{
+    border: 1px solid red;
+    width: 25rem;
+    border-radius: 5px;
+    margin-left: 30rem;
+    padding: 5rem;
+    background-color: darkseagreen;
+}
